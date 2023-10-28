@@ -1,2 +1,3 @@
 # P8
-iOS app playground_v2
+[Project 8](https://www.hackingwithswift.com/100/36) from 100 Days of 
+Swift
